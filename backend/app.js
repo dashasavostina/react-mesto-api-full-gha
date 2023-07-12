@@ -30,7 +30,7 @@ mongoose.connect(DB_URL);
 
 app.use(requestLogger);
 
-app.get('/crash-test', auth, () => {
+app.get(auth, '/crash-test', () => {
   setTimeout(() => {
     throw new Error('Сервер сейчас упадёт');
   }, 0);
