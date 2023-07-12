@@ -1,7 +1,7 @@
 const apiData = {
-  link: 'http://mesto.mesto.nomoredomains.work:3000'
+  link: 'http://mesto.mesto.nomoredomains.work'
 }
 
-const url = "http://mesto.mesto.nomoredomains.work:3000";
+const url = "http://mesto.mesto.nomoredomains.work";
 
 export {apiData, url}
