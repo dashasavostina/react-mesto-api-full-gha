@@ -9,7 +9,7 @@
 
 ## Ссылки на проект
 
-IP-адрес 158.160.7.219
+IP 158.160.7.219
 
 Frontend https://mesto.mesto.nomoredomains.work
 
